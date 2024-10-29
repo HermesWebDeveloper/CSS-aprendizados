@@ -25,3 +25,46 @@ code {
     height: 300px;
     width: 300px;
 }
+
+div.static {
+    position: static;
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.bg-blue {
+    background-color: blue;
+}
+
+.bg-green {
+    background-color: green;
+}
+
+.p-10 {
+    padding: 10px;
+}
+
+.caixa1 {
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+
+.container1 {
+    position: absolute;
+}
+
+.caixa2 {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+.navbar {
+    position: fixed;
+    width: 200px;
+    right:  10px;
+    top: 10px
+}
